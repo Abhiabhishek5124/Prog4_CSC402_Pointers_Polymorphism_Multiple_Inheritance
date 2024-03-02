@@ -1,0 +1,3 @@
+/Users/abhishek/Desktop/AdvancedProgramming/Shrestha_Abhishek_prog4csc402/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/abhishek/Desktop/AdvancedProgramming/Shrestha_Abhishek_prog4csc402/untitled1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abhishek/Desktop/AdvancedProgramming/Shrestha_Abhishek_prog4csc402/untitled1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
